@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 ##############################################################################
+**/__pycache__/**
 check_points/
 out/
 pretrained_model/
